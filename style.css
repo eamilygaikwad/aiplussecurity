@@ -313,6 +313,10 @@ border:1px solid rgba(255,255,255,.06);
 margin-bottom:10px;
 color:#7ec0ff;
 }
+.contact-item a{
+    color: #fff;
+    text-decoration: none;
+}
 
 .contact-cta{
 text-align:center;
